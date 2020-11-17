@@ -1,0 +1,12 @@
+name: cd19
+title:
+username:
+account: ergoanalytics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1954340
+bundleId: 2893135
+url: https://ergoanalytics.shinyapps.io/cd19/
+when: 1584517477.78238
+asMultiple: FALSE
+asStatic: FALSE
